@@ -1,0 +1,15 @@
+2022-01-19 22:01:575 INFO  Steps:41 - Loading browser with ---> edge
+2022-01-19 22:01:578 INFO  Steps:56 - Launching Edge Driver..!
+2022-01-19 22:01:25 INFO  Steps:59 - Edge Launched
+2022-01-19 22:01:93 INFO  Steps:68 - URL-> https://maps.google.com/ Navigated
+2022-01-19 22:01:233 INFO  GooglemapsPage:43 - Entering location name San Francisco, California in Maps !
+2022-01-19 22:01:838 INFO  Steps:92 - Coordinates : 37.7577627,-122.4726194
+2022-01-19 22:01:856 INFO  Steps:107 - Latitude NOT matching..Expected-> 37.7577627 But Actual-> 37.757815
+2022-01-19 22:01:857 INFO  Steps:113 - Longitude NOT matching..Expected-> -122.4726194 But Actual-> -122.507641
+2022-01-19 22:01:98 INFO  GooglemapsPage:50 - Choosing starting point in Map as : Chico, California
+2022-01-19 22:01:247 INFO  Steps:129 - Total available routes displayed in the list = 3
+2022-01-19 22:01:322 INFO  Steps:129 - Total available routes displayed in the list = 3
+2022-01-19 22:01:931 INFO  Steps:155 - [Route Title= via I-80 W, Distance= 164 miles, Travel Time= 2 hr 59 min
+, Route Title= via CA-70 S and I-80 W, Distance= 173 miles, Travel Time= 3 hr 1 min
+, Route Title= via CA-99 S and I-80 W, Distance= 164 miles, Travel Time= 3 hr 1 min
+]
